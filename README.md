@@ -5,7 +5,7 @@
 This is my latest animated NFT on OpenSea platform:
 [Dance of Lover](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/3656066525500525417872901239179745872468704855560215118739963799206958727169)
 
-![parnian](/assets/FullSizeRender.jpg)
+![animated](/assets/FullSizeRender.jpg)
 
 ### Abstract Creative Digital Art Collection
 
