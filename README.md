@@ -1,4 +1,4 @@
-## Welcome to my NFT page
+## Welcome to Hooman NFT page
 
 ### Latest NFT Drop
 
