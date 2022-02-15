@@ -7,7 +7,7 @@ This is my latest animated NFT on OpenSea platform:
 
 ### Hooman Collection
 
-Below is my first audio NFT peice from my composed songs in Hooman Collection called [Lovers Dance](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/3656066525500525417872901239179745872468704855560215118739963798107447099393)
+Below is my first audio NFT peice from my composed songs in Hooman Collection called [Negara](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/3656066525500525417872901239179745872468704855560215118739963798107447099393)
 
 ![static](/assets/FullSizeRender.jpg)
 
